@@ -1,10 +1,7 @@
 gitting-started
 ===============
-This is a git tutorial I created for co-workers who are migrating to git, but I made it generic enough for anyone to learn git. I assume the reader has a general idea of software version control practices, but little to no git knowledge. Examples are designed to be worked through during the presentation, so play along at home, won't you? Included in the download is the source file in ODP format ([OpenOffice](https://www.openoffice.org/) and [LibreOffice](https://www.libreoffice.org/) presentation file) and later I'll have a PDF for more portable, read-only access. 
+This is a git tutorial I created for co-workers who are migrating to git, but I made it generic enough for anyone to learn git. I assume the reader has a general idea of software version control practices, but little to no git knowledge. Examples are designed to be worked through during the presentation, so play along at home, won't you? Included in the download is the source file in ODP format ([Wikipedia](https://en.wikipedia.org/wiki/OpenDocument): _"The Open Document Format for Office Applications (ODF), also known as OpenDocument, is an XML-based file format for spreadsheets, charts, presentations and word processing documents. It was developed with the aim of providing an open, XML-based file format specification for office applications."_) created in [LibreOffice](https://www.libreoffice.org/), which should open in any current "office" style software. Later I'll include a PDF version for more portable, read-only access. Thanks
 
-From [Wikipedia](https://en.wikipedia.org/wiki/OpenDocument):
-
-_"The Open Document Format for Office Applications (ODF), also known as OpenDocument, is an XML-based file format for spreadsheets, charts, presentations and word processing documents. It was developed with the aim of providing an open, XML-based file format specification for office applications."_
 
 ## Feedback
 I view this as a living document, so please post issues or make pull requests if you have better methods, or if you see any mistakes or outdated content. (these things happen)
